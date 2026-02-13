@@ -21,7 +21,7 @@ Static SEO support site for LinkBook, built from source text in this repository 
 
 ## Update base URL after deploy
 The current canonical/sitemap base is set to:
-`https://azizsaba.github.io/link-saver-ios/`
+`https://sabaaziz991-hash.github.io/link-saver-ios/`
 
 If your actual Pages URL differs, update these files:
 - `index.html`

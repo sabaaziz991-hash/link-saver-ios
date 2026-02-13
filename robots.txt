@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://azizsaba.github.io/link-saver-ios/sitemap.xml
+Sitemap: https://sabaaziz991-hash.github.io/link-saver-ios/sitemap.xml
