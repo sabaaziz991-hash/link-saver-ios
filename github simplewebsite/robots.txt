@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azizsaba.github.io/link-saver-ios/sitemap.xml
