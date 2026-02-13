@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">LinkBook SEO Hub</title>
+  <desc id="desc">Private link saver for iPhone, iPad, and Mac</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff0cf"/>
+      <stop offset="55%" stop-color="#f6e7cf"/>
+      <stop offset="100%" stop-color="#d8efe7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f7a74"/>
+      <stop offset="100%" stop-color="#124e56"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="220" cy="110" r="180" fill="#f7c67f" opacity="0.28"/>
+  <circle cx="1060" cy="530" r="230" fill="#8ac8be" opacity="0.3"/>
+  <rect x="88" y="88" width="1024" height="454" rx="38" fill="#fff8eb" stroke="#dbcdb6" stroke-width="2"/>
+  <rect x="130" y="130" width="420" height="14" rx="7" fill="#1f7a74" opacity="0.18"/>
+  <rect x="130" y="160" width="310" height="14" rx="7" fill="#1f7a74" opacity="0.14"/>
+  <text x="130" y="270" fill="#11343b" font-size="74" font-family="Georgia, serif" font-weight="700">LinkBook</text>
+  <text x="130" y="332" fill="#35575e" font-size="35" font-family="Arial, sans-serif" font-weight="600">Save, organize, and revisit links privately.</text>
+  <rect x="130" y="378" width="350" height="76" rx="38" fill="url(#accent)"/>
+  <text x="175" y="425" fill="#f0fbf9" font-size="31" font-family="Arial, sans-serif" font-weight="700">linkbooked.com</text>
+  <text x="760" y="196" fill="#6f5a39" font-size="28" font-family="Arial, sans-serif" font-weight="700">SEO Hub</text>
+  <text x="760" y="236" fill="#3f5f64" font-size="26" font-family="Arial, sans-serif">iOS | iPadOS | macOS</text>
+  <text x="760" y="276" fill="#3f5f64" font-size="26" font-family="Arial, sans-serif">Local-first | Reader Mode | Smart Cards</text>
+</svg>
